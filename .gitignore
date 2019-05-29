@@ -1,1 +1,6 @@
 *.pyc
+data/
+nets/tracker.caffemodel
+nets/tracker.pt
+show/
+out.avi
